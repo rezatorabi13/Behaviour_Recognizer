@@ -1,0 +1,13 @@
+We recomend you to use Anoconda to have compatible libraries. Our recommendation is to have the following
+version of libraries installed. You can install them in a virtual enviroment. 
+
+- TensorFlow = 1.13.1
+- Keras = 2.2.4
+- OpenCV = 4.1.2
+- pandas = 0.25.1 
+- numpy = 1.16.5
+- matplotlib = 3.1.0
+- tqdm = 4.36.1
+- glob 
+- os
+
