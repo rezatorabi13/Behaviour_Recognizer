@@ -1,6 +1,5 @@
 
 ## Behaviour_Recognizer
-_____________________________________________________________________________________________________
 ### A deep learning toolbox for data driven analysis of behavioural video data.
 
 Behaivior_Recognizer is a deep learning based toolbox for analyzing the videos of behaviour and behaviour experiments. It provides a framework for state-of-the-art behaviour recognition and can be used by researchers and practitioners for automated behavior analyses. 
@@ -24,7 +23,7 @@ As an example, we implemented the toolbox for data-driven analyses of infant rat
     <em>Fig. 2: Right) Model accuracy (accuracy versus epoch for train and test data). Left) Network attention after training the model.</em>
 </p>
 
-# Deep Neural Network training and architecture
+### Deep Neural Network training and architecture
 
 The network architecture has two parts. In part1, we use a convolutional network (ConvNet) to convert each video frame to a set of features starting by pre-trained weights of models like Inception-V3. Features from video frames from a single video clip were than combined and passed to a recurrent neural network (RNN) in the second part. This allowed an analysis of behaviour and movements. The network is trained to assign a correct group category to each video clip. The code use kfold validation to train and validate the model.
 
