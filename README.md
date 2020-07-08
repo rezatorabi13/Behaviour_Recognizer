@@ -12,7 +12,7 @@ Behavior is a sensitive indicator of brain function, in addition to being relati
 As an example, we implemented the toolbox for data-driven analyses of infant rat behavior in an open field task to investigating brain alterations in development. The toolbox was applied to study the effect of maternal nicotine consumption prior to conception on rat pup’s motor development. It distinguished between the behaviour of control vs. nicotine group animals with a state-of-the-art accuracy. For mor information, please refer to our paper.
 
 <p>
-    <img src="http://github.com/rezatorabi13/Behaviour_Recognizer/blob/master/docs/Figure1.gif" alt="Figure1" width="280"/>
+    <img src="https://github.com/rezatorabi13/Behaviour_Recognizer/blob/master/docs/Figure1.gif" alt="Figure1" width="280"/>
     <br>
     <em>Figure1: Open field task. The network was trained to distinguish if the rat pup is a nicotine or control animal. In nicotine animals the rat's mum consumed nicotine prior to conception.</em>
 </p>
