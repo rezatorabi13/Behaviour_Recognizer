@@ -72,3 +72,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ### Citation
 
 If you use the code, please cite us!
+
+Here is a direct link to our paper: https://www.frontiersin.org/articles/10.3389/fnins.2021.686767/full
